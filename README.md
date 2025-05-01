@@ -37,8 +37,8 @@ The core of this project is a Jupyter Notebook (`classifier5.ipynb` or similar) 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/pulsevan/GalaxyClassifier
+    cd GalaxyClassifier
     ```
 2.  **Install dependencies:** Ensure you have Python installed. It's recommended to use a virtual environment. This may require using different versions of PyTorch (In the case of a 50 series GPU, fastai and PyTorch may or may not be updated correctly as of 4/30/25!).
     ```bash
