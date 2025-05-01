@@ -3,6 +3,7 @@
 This project utilizes supervised machine learning, specifically the ConvNeXt_tiny architecture via the fastai library (built on PyTorch), to classify images of galaxies. The primary goal is to identify specific types of galaxies, such as polar ring galaxies, using image data sourced from the Hyper-Suprime Cam Subaru Sky Survey (HSC-SSP).
 
 ![NGC 660 Polar Ring Galaxy](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NGC_660_Polar_Galaxy_Gemini_Observatory.jpg/400px-NGC_660_Polar_Galaxy_Gemini_Observatory.jpg)
+
 *Example of a Polar Ring Galaxy (NGC 660). Credit: Gemini Observatory/AURA*
 
 ## Project Overview
